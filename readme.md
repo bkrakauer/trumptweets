@@ -10,4 +10,4 @@ I have also found that the state in which user resides is highly relevant. See t
 ![alt text](./choropleth.png "Choropleth of retweets")
 
 
-(Note that the Jupyter Notebook shows much of the work, but is unable to display the maps. Those can be seen in the markdown version.)
+(Note that the Jupyter Notebook shows much of the work, but is unable to display the maps. Those can be seen in the pdf version.)
